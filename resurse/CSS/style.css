@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(30, 30, 30);
+    counter-reset: section;
+    font-family: 'Caladea'; font-size: 18px;
+  }
+
+#text1
+{
+    color:azure
+}
+
+
+#buton, #text1
+{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+}
+
+
+#formular
+{
+    padding-top: 50px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(45, 45, 45);
+}
+
+#buton {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 4px 4px 4px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+
+.centrat
+{
+    text-align: center;
+}
